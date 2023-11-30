@@ -1,0 +1,4 @@
+{
+  "editor.defaultFormatter": "numso.prettier-standard-vscode",
+  "editor.formatOnSave": true
+}
